@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ./script.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "argparse": "^1.0.10"
+  }
+}
